@@ -21,3 +21,4 @@ nohup.out
 /*.obj
 dist/
 sionna/system/data
+fsc/scene_file/*
